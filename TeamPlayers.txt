@@ -1,0 +1,105 @@
+  Group A   
+Sri Lanka 
+58 - Dasun Shanaka
+79 - Avishka Fernando
+80 - Wanidu Hasaranga
+59 - Dushmantha  Chameera
+87 - Charith Asalanka
+60 - Danushka Gunathilaka
+88 - Chamika Karunaratne
+78 - Lahiru Kumara
+90 - Maheesh Theekshana
+70 - Bhanuka Rajapaksa
+83 - Dhananjaya de Silva
+ 
+Australia 
+53 - Matthew Wade
+59 - Mitchell Starc
+58 - Glenn Maxwell
+61 - Nathan Coulter-Nile
+85 - Billy Stanlake
+74 - Marcus Stoinis
+90 - D'Arcy Short
+32 - David Warner
+43 - Steve Smith
+75 - Travis Head
+51 - Pat Cummins
+ 
+West Indies 
+77 - Oshane Thomas
+75 - Fabian Allen
+66 - Rovman Powell
+69 - Shimron Hetmyer
+82 - Hayden Waish
+61 - Jason Holder
+79 - Obed McCoy
+65 - Chris Gayle
+13 - Ravi Rampaul
+18 - Lendl Simmons
+26 - Kieron Pollard
+ 
+New Zealand 
+90 - Rachin Ravindra
+83 - Hamish Bennett
+74 - Glenn Phillips
+37 - Martin Guptilll
+30 - Tim Southee
+64 - Ish Sodhi
+59 - James Neesham
+51 - Colin de Grandhomme
+84 - Devon Conway
+80 - Scott Kuggeleijin
+70 - Tom Bruce
+ 
+  Group B   
+India 
+31 - Virat Kohli
+45 - Bhuvneshwar
+60 - Yuzvendra Chahal
+68 - Rishabh Pant
+36 - Shikhar Dhawan
+57 - Jasprit Bumrah
+73 - Shardul Thakur
+30 - Ravichandran Ashwin
+58 - Hardik Pandya
+70 - Shreyas Iyer
+82 - Shivam Dube
+ 
+Bangladesh 
+45 - Mustafizur Rahman
+44 - Soumya Sarkar
+43 - Taskin Ahmed
+46 - Liton Das
+56 - Mohammad Saifuddin
+67 - Mohammad Naim
+63 - Mahedi Hasan
+58 - Afif Hossain
+53 - Mosaddek Hossain
+23 - Rubel Hossain
+13 - Mahmudullah
+ 
+England 
+81 - Dawid Malan
+83 - Jake Ball
+79 - Tom Curran
+70 - Jason Roy
+54 - Jos Buttler
+58 - Ben Stokes
+65 - Chris Jordan
+66 - Moeen Ali
+56 - Jonny Bairstow
+46 - Adil Rashid
+71 - Sam Billings
+ 
+Pakistan 
+87 - Haider Ali
+73 - Shadab Khan
+70 - Babar Azam
+71 - Hasan Ali
+60 - Mohammad Rizwan
+74 - Fakhar Zaman
+78 - Shaheen Afridi
+86 - Haris Rauf
+69 - Iftikhar Ahmed
+62 - Imad Wasim
+57 - Sharjeel Khan

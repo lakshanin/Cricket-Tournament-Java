@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<GridPane alignment="center" hgap="10" vgap="10" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="500.0" style="-fx-background-image: url('../sample/bg1.jpg'); -fx-background-color: #f5e3ce;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
+      <ImageView fitHeight="601.0" fitWidth="556.0" layoutX="-25.0" layoutY="-50.0">
+         <Image url="@bg1.jpg" />
+      </ImageView>
+      <Text fill="WHITE" layoutX="126.0" layoutY="70.0" strokeType="OUTSIDE" strokeWidth="0.0" text=" T20 WORLD CUP" textAlignment="CENTER" wrappingWidth="272.13671875">
+         <font>
+            <Font name="Bodoni MT Bold" size="34.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="363.0" layoutY="171.0" strokeType="OUTSIDE" strokeWidth="0.0" text="GROUP B" textAlignment="CENTER" wrappingWidth="101.99999903142452">
+         <font>
+            <Font name="Georgia Bold Italic" size="19.0" />
+         </font>
+      </Text>
+      <Button fx:id="sl" contentDisplay="CENTER" layoutX="52.0" layoutY="236.0" mnemonicParsing="false" onAction="#viewSlTeam" style="-fx-background-color: white;" text="SRI LANKA" textAlignment="CENTER">
+         <font>
+            <Font name="Goudy Old Style" size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="nz" contentDisplay="CENTER" layoutX="37.0" layoutY="430.0" mnemonicParsing="false" onAction="#viewNzTeam" style="-fx-background-color: white;" text="NEW ZEALAND" textAlignment="CENTER">
+         <font>
+            <Font name="Goudy Old Style" size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="wi" contentDisplay="CENTER" layoutX="44.0" layoutY="370.0" mnemonicParsing="false" onAction="#viewWiTeam" style="-fx-background-color: white;" text="WEST INDIES">
+         <font>
+            <Font name="Goudy Old Style" size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="aus" contentDisplay="CENTER" layoutX="49.0" layoutY="308.0" mnemonicParsing="false" onAction="#viewAusTeam" style="-fx-background-color: white;" text="AUSTRALIA" textAlignment="CENTER">
+         <font>
+            <Font name="Goudy Old Style" size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="pak" contentDisplay="CENTER" layoutX="369.0" layoutY="308.0" mnemonicParsing="false" onAction="#viewPakTeam" style="-fx-background-color: white;" text="PAKISTAN" textAlignment="CENTER">
+         <font>
+            <Font name="Goudy Old Style" size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="ban" contentDisplay="CENTER" layoutX="352.0" layoutY="431.0" mnemonicParsing="false" onAction="#viewBanTeam" style="-fx-background-color: white;" text="BANGLADESH" textAlignment="CENTER">
+         <font>
+            <Font name="High Tower Text" size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="ind" contentDisplay="CENTER" layoutX="385.0" layoutY="236.0" mnemonicParsing="false" onAction="#viewIndTeam" style="-fx-background-color: white;" text="INDIA" textAlignment="CENTER">
+         <font>
+            <Font name="Goudy Old Style" size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="eng" contentDisplay="CENTER" layoutX="371.0" layoutY="370.0" mnemonicParsing="false" onAction="#viewEngTeam" style="-fx-background-color: white;" text="ENGLAND" textAlignment="CENTER">
+         <font>
+            <Font name="Goudy Old Style" size="15.0" />
+         </font>
+      </Button>
+      <Text fill="WHITE" layoutX="49.0" layoutY="170.0" strokeType="OUTSIDE" strokeWidth="0.0" text="GROUP A" textAlignment="CENTER" wrappingWidth="101.99999903142452">
+         <font>
+            <Font name="Georgia Bold Italic" size="19.0" />
+         </font>
+      </Text>
+   </AnchorPane>
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+</GridPane>

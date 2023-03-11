@@ -1,0 +1,36 @@
+Team1: Sri Lanka
+Score: 421
+Team 2: New Zealand
+Score: 186
+Winner: Sri Lanka
+ 
+Team1: Sri Lanka
+Score: 170
+Team 2: Australia
+Score: 121
+Winner: Sri Lanka
+ 
+Team1: India
+Score: 129
+Team 2: Pakistan
+Score: 133
+Winner: Pakistan
+ 
+Team1: West Indies
+Score: 267
+Team 2: Australia
+Score: 214
+Winner: West Indies
+ 
+Team1: Sri Lanka
+Score: 196
+Team 2: Australia
+Score: 189
+Winner: Sri Lanka
+ 
+Team1: Sri Lanka
+Score: 113
+Team 2: West Indies
+Score: 117
+Winner: West Indies
+ 
